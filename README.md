@@ -6,5 +6,5 @@
 활용 방안 : 사용자가 단어를 입력하면, 그 단어와 유사한 분위기의 음악을 추천해 사용자는 자신의 취향에 최적화된 음악을 추천받을 수 있다.
 # 2. 프로젝트 아키텍쳐 ( flow chart )
 <p align="center">
-  <img src=![SmartSelectImage_2023-12-13-22-28-19](https://github.com/kimgayoon/project/assets/150767684/646c0089-f53c-471c-9397-cccff12d71ab)>
+  <img src="![SmartSelectImage_2023-12-13-22-28-19](https://github.com/kimgayoon/project/assets/150767684/646c0089-f53c-471c-9397-cccff12d71ab)">
 </p>
