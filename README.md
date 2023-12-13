@@ -7,10 +7,10 @@
 # 2. 프로젝트 아키텍쳐 ( flow chart )
 ![SmartSelectImage_2023-12-13-22-28-19](https://github.com/kimgayoon/project/assets/150767684/646c0089-f53c-471c-9397-cccff12d71ab)
 # 3. 관련된 Repository (참고한 오픈소스 프로젝트)
- librosa (github)
-librosa는 음악과 오디오 분석을 위한 프로젝트이다.
-IMGenie (github)
-음악 추천 서비스이다.
-lightfm (github)
-lightfm은 implicit, explicit 피드백을 사용하여 인기 추천 알고리즘을 파이썬 언어로 구현한 프로젝트이다.
+ librosa (github)/n
+librosa는 음악과 오디오 분석을 위한 프로젝트이다./n
+IMGenie (github)/n
+음악 추천 서비스이다./n
+lightfm (github)/n
+lightfm은 implicit, explicit 피드백을 사용하여 인기 추천 알고리즘을 파이썬 언어로 구현한 프로젝트이다./n
 
